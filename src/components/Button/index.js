@@ -1,7 +1,7 @@
 const ButtonSearch = () => {
-    return(
+    return (
         <>
-    <button>PESQUISAR</button>
+            <button>PESQUISAR</button>
         </>
     )
 }

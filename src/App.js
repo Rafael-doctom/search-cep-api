@@ -1,10 +1,8 @@
-import { ButtonSearch, InputSearch } from './components/index';
-
+import Dashboard from './pages/dashboard'
 function App() {
   return (
     <>
-    <ButtonSearch />
-    <InputSearch /> 
+      <Dashboard />
     </>
   );
 }
