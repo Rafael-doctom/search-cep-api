@@ -1,4 +1,4 @@
-import { ButtonSearch, InputSearch } from '../../components/index';
+import { InputSearch } from '../../components/index';
 
 // importStyles
 import styled from  'styled-components';
@@ -17,7 +17,6 @@ const Dashboard = () => {
             <Container>
                 <Content>
                     <InputSearch />
-                    {/* <ButtonSearch /> */}
                 </Content>
             </Container>
         </>
